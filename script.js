@@ -21,3 +21,112 @@ function mudarTema(){
     
 }
 
+
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Geuta das Encantadas</title>
+</head>
+<body>  <header>
+        <h1>Gruta das Encantadas: entre o mar, a natureza e as lendas do Paraná.</h1>
+        <p>“Escondida entre as rochas da Ilha do Mel, a Gruta das Encantadas guarda uma história onde natureza e lenda se encontram.”</p>
+        <nav>
+            <a href="#sobre">Sobre</a>
+            <a href="#historia">Historia</a>
+            <a href="#cultira">Cultura</a>
+            <a href="#curiosidade">Curiosidade</a>
+            <a href="#referencias">Referencias</a>
+        </nav>
+    </header>
+    <main>
+        <section id="sobre"> 
+            <h2> Conheça a Gruta das Encantadas
+
+A Gruta das Encantadas está localizada na parte sul da Ilha do Mel, em Paranaguá, no litoral do Paraná. Ela é uma formação rochosa criada pela ação do mar sobre as rochas ao longo do tempo e é considerada um dos patrimônios naturais mais importantes da Ilha do Mel.</h2>
+            <p>Neste site serão apresentados a história da gruta, sua formação, suas características naturais, a famosa lenda das Encantadas, sua importância para o Paraná e a relação entre a natureza, as histórias populares e a cultura paranaense.
+
+A Gruta das Encantadas não é apenas um lugar formado pela natureza. Seu nome está ligado a histórias sobre mulheres encantadas ou sereias que, segundo a tradição, habitavam a região. Dessa forma, a gruta também faz parte do imaginário e do patrimônio cultural do litoral paranaense.</p>
+        </section>
+
+        <main>
+        </section>
+        <h2></h2></h>
+        </p>
+        <figure>
+            <img scr="imagem_1.jpg" alt="...">
+            <figcaption>
+                ...
+            </figcaption>
+        </figure>
+        <button class="curtir">
+                ❤️ Curtir <span>0</span>
+             </button>
+    </section>
+
+    <section id="historia">
+        <h2>A história por trás da Gruta das Encantadas</h2>
+        <p>A Gruta das Encantadas foi formada naturalmente pela ação do mar sobre as rochas. O Morro da Gruta possui principalmente migmatito, uma rocha resistente, atravessada por uma faixa de diabásio, que é menos resistente. Com o passar do tempo, a erosão causada pelas ondas desgastou essa parte mais frágil e deu origem à gruta.
+
+Não existe uma data específica para o surgimento da gruta, pois sua formação aconteceu durante um longo processo natural. A própria formação da Ilha do Mel está relacionada a processos geológicos e à ação do mar que ocorreram durante milhares e milhares de anos.
+
+Além da formação natural, a gruta ganhou importância através das lendas transmitidas pelas comunidades do litoral. Uma das histórias mais conhecidas conta que mulheres encantadas ou sereias apareciam na gruta e atraíam os pescadores com seus cantos. Essa tradição ajudou a criar o nome “Gruta das Encantadas”.</p>
+        <figure>
+            <img src="imagem_2.jpg" alt="...">
+            <figcaption>
+                ...
+            </figcaption>
+        </figure>
+    </section>
+
+<section id="cultura">
+    <h2> Natureza, lendas e cultura paranaense
+
+A Gruta das Encantadas é importante para a cultura paranaense porque reúne natureza, histórias populares, lendas e paisagens que fazem parte da identidade do litoral do Paraná.
+    </h2>
+    <p>A Gruta das Encantadas é importante para a cultura paranaense porque reúne natureza, histórias populares, lendas e paisagens que fazem parte da identidade do litoral do Paraná.
+
+A lenda das Encantadas é uma manifestação do imaginário popular que foi sendo transmitida ao longo do tempo. Essas histórias ajudam a transformar um espaço natural em um lugar cheio de significado cultural.
+
+A gruta também pode inspirar diferentes formas de arte, como fotografias, desenhos, pinturas, ilustrações, textos, vídeos e histórias, principalmente por causa de sua paisagem e das lendas relacionadas ao local.
+
+Entre suas principais características estão:
+
+Formação causada pela ação do mar;
+ Presença de diferentes tipos de rocha;
+ Lendas sobre as Encantadas;
+Relação com a natureza e a biodiversidade da Ilha do Mel;
+Presença no imaginário popular do litoral paranaense;
+ Relação com o patrimônio natural e cultural do Paraná.
+
+Atualmente, a Gruta das Encantadas pode ser conhecida na Ilha do Mel, em Paranaguá, sendo um dos principais atrativos naturais da ilha. O acesso é feito a partir do trapiche de Encantadas por uma trilha curta, e a região está protegida por unidades de conservação.</p>
+    <figure>
+        <img src="imagem_3 . jpg" alt="...">
+        <figcaption>
+            ...
+        </figcaption>
+    </figure>
+</section>
+
+<section id="curiosidades">
+    <h2>Curiosidades</h2>
+    <div class="cards-curiosidades">
+    <div class="card">
+        <h3>Curiosidades</h3>
+        <p>Escreva uma curiosidade </p>
+        </div>
+
+    </div>
+
+</main>
+<footer>
+    <p>Site desenvolvido por: Maria Luiza Pereira</p>
+    <p>turma: 1E</p>
+    <p>Projeto integrado entre Educação Digital e Arte</p>
+</footer>
+<button class="btn-tema" aria-label="Altenar entre tema claro e escuro"></button>
+    💗
+</button>
+
+</body>
